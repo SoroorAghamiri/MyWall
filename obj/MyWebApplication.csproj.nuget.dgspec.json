@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/soroormiri/Documents/DotNet Test Projects/MyWebApplication/MyWebApplication/MyWebApplication.csproj": {}
+    "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/MyWebApplication.csproj": {}
   },
   "projects": {
-    "/Users/soroormiri/Documents/DotNet Test Projects/MyWebApplication/MyWebApplication/MyWebApplication.csproj": {
+    "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/MyWebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebApplication/MyWebApplication/MyWebApplication.csproj",
+        "projectUniqueName": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/MyWebApplication.csproj",
         "projectName": "MyWebApplication",
-        "projectPath": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebApplication/MyWebApplication/MyWebApplication.csproj",
+        "projectPath": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/MyWebApplication.csproj",
         "packagesPath": "/Users/soroormiri/.nuget/packages/",
-        "outputPath": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebApplication/MyWebApplication/obj/",
+        "outputPath": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/soroormiri/.nuget/NuGet/NuGet.Config"

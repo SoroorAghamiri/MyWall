@@ -12,53 +12,6 @@ html {
   box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
-.btn-type1{
-  border: none;
-  /* box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb; */
-  background-color: transparent;
-  text-shadow:3px 2px Gainsboro;
-  text-decoration:underline; 
-  text-decoration-style:wavy; 
-  text-decoration-color:DarkSlateBlue; 
-  color:Indigo
-}
-.btn-type1:hover{
-  background-color:rgba(214, 235, 241, 0.462);
-  transition: 0.4s;
-  border-radius:10px;
-}
-
-.btn-type2{
-  border: none;
-  /* box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb; */
-  background-color: transparent;
-  text-shadow:3px 2px Gainsboro;
-  text-decoration:underline; 
-  text-decoration-style:wavy; 
-  text-decoration-color:rgb(107, 38, 61); 
-  color:rgb(102, 1, 38)
-}
-.btn-type2:hover{
-  background-color:rgba(230, 167, 187, 0.462);
-  transition: 0.4s;
-  border-radius:10px;
-}
-
-.btn-type3{
-  border: none;
-  /* box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb; */
-  background-color: transparent;
-  text-shadow:3px 2px Gainsboro;
-  text-decoration:underline; 
-  text-decoration-style:wavy; 
-  text-decoration-color:rgb(166, 149, 183); 
-  color:rgb(50, 5, 90)
-}
-.btn-type3:hover{
-  background-color:rgba(203, 174, 231, 0.462);
-  transition: 0.4s;
-  border-radius:10px;
-}
 
 .btn-type4{
   background-image: url(../Images/Brick.jpg);
@@ -86,6 +39,8 @@ html {
 body {
   margin-bottom: 60px;
   background-image: url(../Images/Back.jpeg);
+  /* background-color: rgba(0, 0, 0, 0.527); */
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.34);
   background-size: cover;
 }
 
@@ -93,8 +48,9 @@ body {
   display: inline-block;
   /* size: contain; */
   padding-left: 420px; 
-  max-width: 65%;
-  max-height: 75%;
+  /* padding-right: 0px; */
+  max-width: 66%;
+  max-height: 80%;
 }
 
 .profileImg {
@@ -107,7 +63,7 @@ body {
   float: left;
   max-width: 40%;
   height: fit-content;
-  max-height: 55%;
+  max-height: 60%;
 }
 
 /* Crochet cards */
@@ -127,7 +83,7 @@ body {
 }
 
 .container {
-  padding: 2px 16px;
+  padding: 2px 0px;
 }
 
 .headingFont{
@@ -135,11 +91,11 @@ body {
   font-family: 'Bacasime Antique', sans-serif;
   font-size: 35px;
   color: black;
-  text-align: left;
-  padding-left: 420px; 
-  padding-top: 40px;
+  text-align: center;
+  padding-right: 0px; 
+  padding-top: 100px;
   top: 8px;
-  left: 285px;
+  right: 60px;
   text-shadow: 2px 2px 2px white;
 }
 
@@ -148,12 +104,42 @@ body {
   font-family: 'Bacasime Antique', sans-serif;
   font-size: 20px;
   color: black;
-  text-align: left;
-  padding-left: 420px; 
+  text-align: center;
+  padding-top: 100px; 
+  padding-right: 0px; 
   top: 100px;
-  left: 285px;
+  right: 27px;
   text-shadow: 2px 2px 2px white;
-  max-width: 55%;
+  max-width: 30%;
   max-height: max-content;
 }
 
+
+.buttonText{
+  font-size: 18px;
+  font-family: "Vibur", sans-serif;
+  background-color: #010a01;
+  border: 0.2rem solid #fff;
+  border-radius: 2rem;
+  padding: 0.4em;
+  box-shadow: 0 0 .2rem #fff,
+              0 0 .2rem #fff,
+              0 0 2rem #0fa,
+              0 0 0.8rem #0fa,
+              0 0 2.8rem #0fa,
+              inset 0 0 1.3rem #0fa;
+
+  color: #fff;
+  text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #0fa,
+    0 0 82px #0fa,
+    0 0 92px #0fa,
+    0 0 102px #0fa,
+    0 0 151px #0fa;
+
+  width: 200px;
+  height: 64px;
+}
