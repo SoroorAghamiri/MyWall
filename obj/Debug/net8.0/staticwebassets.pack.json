@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets/Images/pngwing.com.png"
     },
     {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/shutter-door.png",
+      "PackagePath": "staticwebassets/Images/shutter-door.png"
+    },
+    {
       "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },

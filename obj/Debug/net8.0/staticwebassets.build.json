@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ugV6YZm3ITIpXa3EhvMqsphp/nRfp+6fkIkQ6UpSd8U=",
+  "Hash": "eW1sRF49nW6yUcCLeFkGTqiYnr0LoSiKPmDBDjHPNuc=",
   "Source": "MyWebApplication",
   "BasePath": "_content/MyWebApplication",
   "Mode": "Default",
@@ -262,6 +262,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Images/Profile2.png"
+    },
+    {
+      "Identity": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/shutter-door.png",
+      "SourceId": "MyWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/",
+      "BasePath": "_content/MyWebApplication",
+      "RelativePath": "Images/shutter-door.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/shutter-door.png"
     },
     {
       "Identity": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/js/site.js",
