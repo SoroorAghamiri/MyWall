@@ -25,6 +25,14 @@
       "PackagePath": "staticwebassets/Images/Crochets/2.jpg"
     },
     {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/Crochets/3.jpg",
+      "PackagePath": "staticwebassets/Images/Crochets/3.jpg"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/Crochets/4.jpg",
+      "PackagePath": "staticwebassets/Images/Crochets/4.jpg"
+    },
+    {
       "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/Profile.jpeg",
       "PackagePath": "staticwebassets/Images/Profile.jpeg"
     },

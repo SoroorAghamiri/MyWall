@@ -31,6 +31,14 @@ html {
   border-radius:10px;
 }
 
+.projectBtn{
+  background-image: url(../Images/Brick2.png);
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0);
+  width: 574px;
+  height: 125px;
+}
+
 html {
   position: relative;
   min-height: 100%;
@@ -137,6 +145,7 @@ body {
 .buttonText{
   font-size: 25px;
   font-family: "Vibur", sans-serif;
+  text-align: center;
   background-color: #010a01;
   border: 0.2rem solid #fff;
   border-radius: 2rem;
@@ -162,3 +171,4 @@ body {
   width: 500px;
   height: 100px;
 }
+
