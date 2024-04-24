@@ -23,6 +23,9 @@ namespace YourNamespace
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
+                endpoints.MapControllerRoute(
+                    name: "software",
+                    pattern: "{controller=SoftwarePrjs}/{action=Index}/{id?}");
             });
         }
 

@@ -1,5 +1,7 @@
+@model IEnumerable<MyWebApplication.Models.Project>
 @{
     ViewData["Title"] = "My Software Projects";
+    ViewBag.Title = "My Projects";
 }
 
 <head>
@@ -9,9 +11,23 @@
 
 <body>
     <p class="buttonText">Software projects</p>
-    <div style="padding-top:46px; padding-left: 16px;">
-        <a href="/Home/Photography" style="position:relative; left:540px;">
-            <button class="projectBtn">Photography</button>
-        </a>
+    <div style="padding-top:46px; padding-left: 16px; overflow-y: scroll; max-height: 1000px; max-width: 1150px; background-size: cover;">
+        @if (ViewData["Projects"] != null)
+        {
+            var projects = ViewData["Projects"] as List<Project>;
+            foreach (var prj in projects)
+            {
+                <tr>
+                    <a href='@prj.GetUrl()' style="position:relative; left:540px;">
+                        <button class="projectBtn">@prj.GetName()</button>
+                    </a>
+                </tr>
+            }
+        }
+        else
+        {
+            <p>No projects available</p>
+        }
     </div>
 </body>
+

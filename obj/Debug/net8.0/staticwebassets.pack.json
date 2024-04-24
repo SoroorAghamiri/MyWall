@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets/Images/Brick.jpg"
     },
     {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/Brick2.png",
+      "PackagePath": "staticwebassets/Images/Brick2.png"
+    },
+    {
       "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/Crochets/1.JPG",
       "PackagePath": "staticwebassets/Images/Crochets/1.JPG"
     },
@@ -51,6 +55,10 @@
     {
       "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/shutter-door.png",
       "PackagePath": "staticwebassets/Images/shutter-door.png"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Texts/projects.txt",
+      "PackagePath": "staticwebassets/Texts/projects.txt"
     },
     {
       "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/css/site.css",
