@@ -61,6 +61,10 @@
       "PackagePath": "staticwebassets/Texts/projects.txt"
     },
     {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/css/projects.css",
+      "PackagePath": "staticwebassets/css/projects.css"
+    },
+    {
       "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },

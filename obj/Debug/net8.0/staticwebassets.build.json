@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pzhBAk+Mu3lp+xlcRATTgMxHsgBPqI6fCC6fM06cC24=",
+  "Hash": "ngoZohy862u5LUmYG1iAwpW8tsZHl+87gqu8vMqyVoQ=",
   "Source": "MyWebApplication",
   "BasePath": "_content/MyWebApplication",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/obj/Debug/net8.0/scopedcss/projectbundle/MyWebApplication.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/css/projects.css",
+      "SourceId": "MyWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/",
+      "BasePath": "_content/MyWebApplication",
+      "RelativePath": "css/projects.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/projects.css"
     },
     {
       "Identity": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/css/site.css",
