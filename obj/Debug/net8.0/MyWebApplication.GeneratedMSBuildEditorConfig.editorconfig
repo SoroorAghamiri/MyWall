@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/soroormiri/Documents/DotNet Test Projects/MyWebsite
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/Views/Home/Crochet.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Dcm9jaGV0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

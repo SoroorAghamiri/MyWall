@@ -1,0 +1,44 @@
+.projectBtn{
+    background-image: url(../Images/Brick2.png);
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0);
+    border-width: 0;
+    width: 574px;
+    height: 125px;
+    display: block; /* Change buttons to block elements */
+  }
+/* change hover style */
+.projectBtn:hover{
+box-shadow: inset 0.5em 0.5em 2em black, 0.5em 0.5em 2em black;
+}
+
+.project-container {
+    padding-top: 46px;
+    padding-left: 16px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    max-height: 421px; /* Set maximum height for the container */
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* Internet Explorer */
+}
+
+/* Show the custom scrollbar */
+.project-container::-webkit-scrollbar {
+    width: 12px; /* Set the width of the scrollbar */
+}
+
+/* Track */
+.project-container::-webkit-scrollbar-track {
+    background: #f1f1f1; /* Set the background color of the scrollbar track */
+}
+
+/* Handle */
+.project-container::-webkit-scrollbar-thumb {
+    background: #888; /* Set the color of the scrollbar handle */
+}
+
+/* Handle on hover */
+.project-container::-webkit-scrollbar-thumb:hover {
+    background: #555; /* Set the color of the scrollbar handle on hover */
+}
+

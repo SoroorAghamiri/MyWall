@@ -7,11 +7,12 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/projects.css" asp-append-version="true" />
 </head>
 
 <body>
     <p class="buttonText">Software projects</p>
-    <div style="padding-top:46px; padding-left: 16px; overflow-y: scroll; max-height: 1000px; max-width: 1150px; background-size: cover;">
+    <div class="project-container" id="projectContainer">
         @if (ViewData["Projects"] != null)
         {
             var projects = ViewData["Projects"] as List<Project>;
@@ -29,5 +30,19 @@
             <p>No projects available</p>
         }
     </div>
+
+   @* <script>
+        const projectContainer = document.getElementById('projectContainer');
+
+        let prevScrollTop = projectContainer.scrollTop;
+
+        projectContainer.addEventListener('scroll', function() {
+            if (projectContainer.scrollTop > prevScrollTop) {
+                // When scrolling down, move the scroll position up by 574px
+                projectContainer.scrollTop -= 30;
+            }
+            prevScrollTop = projectContainer.scrollTop;
+        });
+    </script> *@
 </body>
 

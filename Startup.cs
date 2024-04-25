@@ -26,6 +26,9 @@ namespace YourNamespace
                 endpoints.MapControllerRoute(
                     name: "software",
                     pattern: "{controller=SoftwarePrjs}/{action=Index}/{id?}");
+                endpoints.MapControllerRoute(
+                    name: "Contact",
+                    pattern: "{controller=Contact}/{action=Index}/{id?}");
             });
         }
 

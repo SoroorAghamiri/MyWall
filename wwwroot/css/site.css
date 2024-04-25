@@ -31,31 +31,41 @@ html {
   box-shadow: inset 0.5em 0.5em 2em black, 0.5em 0.5em 2em black;
 }
 
-.projectBtn{
-  background-image: url(../Images/Brick2.png);
-  background-size: cover;
-  background-color: rgba(0, 0, 0, 0);
-  border-width: 0;
-  width: 574px;
-  height: 125px;
-}
-/* change hover style */
-.projectBtn:hover{
-  box-shadow: inset 0.5em 0.5em 2em black, 0.5em 0.5em 2em black;
-}
-
 html {
   position: relative;
   min-height: 100%;
 }
 
+/*
 body {
   margin-bottom: 60px;
   background-image: url(../Images/Back.jpeg);
-  /* background-color: rgba(0, 0, 0, 0.527); */
+  background-color: rgba(0, 0, 0, 0.527); 
   box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.34);
   background-size: cover;
+} */
+
+
+body {
+    margin: 0; /* Remove default body margin */
+    padding: 0; /* Remove default body padding */
+    min-height: 100vh; /* Make the body cover the entire viewport height */
+    background-image: url(../Images/Back.jpeg); /* Set the background image */
+    background-size: cover; /* Ensure the background covers the entire body */
+    /*overflow: hidden;*/ /* Hide overflow to prevent scrollbars */
+    position: relative; /* Set position relative for stacking */
 }
+
+body::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.34); /* Apply the shadow to cover the entire body */
+}
+
 
 .announcement{
   display: inline-block;
