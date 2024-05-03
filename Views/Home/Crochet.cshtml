@@ -5,12 +5,16 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/crochet.css" asp-append-version="true" />
 </head>
 
 <body>
-    <div>
-        <div class="text-center">
-            <p class="buttonText">These are some of my crochet projects</p>
+    @* <div> *@
+        <div style="display: inline-block;">
+            <img src="~/Images/sign/red_sign.png" alt="Sign" class="pageLabelContainer"/>
+            <p class="pageLabel">
+                My Crochet Projects
+            </p>
         </div>
         <div id="card-horizontal">
             @* Add Cards here *@
@@ -47,5 +51,5 @@
             </div>
 
         </div>
-    </div>
+    @* </div> *@
 </body>

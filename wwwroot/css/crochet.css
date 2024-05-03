@@ -1,0 +1,39 @@
+/* Crochet cards */
+#card-horizontal { 
+  position: relative;
+  padding-top: 5%;
+    width: 100%; 
+    display: grid; 
+    grid-template-columns: repeat(auto-fill, 320px); 
+    justify-content: center; 
+}
+
+.card {
+    background-image: url(../Images/pngwing.com.png);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    background-color: rgba(0, 0, 0, 0);
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    /* transition: 0.3s;  */
+    width: 70%;
+    height: 100%;
+  }
+
+  .card-text{
+    font-family: 'Bacasime Antique', sans-serif;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    text-shadow: 2px 2px 2px white;
+    padding-left: 12px;
+    padding-bottom: 12px;
+    padding-right: 12px;
+  }
+  
+  .card-image{
+    position: relative; 
+    width: 70%; 
+    max-height: 55%;
+    left:30px; 
+    top: 30px;
+  }

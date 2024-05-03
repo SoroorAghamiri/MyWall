@@ -49,6 +49,10 @@
       "PackagePath": "staticwebassets/Images/Profile2.png"
     },
     {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/brick-wall-painted-white.jpg",
+      "PackagePath": "staticwebassets/Images/brick-wall-painted-white.jpg"
+    },
+    {
       "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/pngwing.com.png",
       "PackagePath": "staticwebassets/Images/pngwing.com.png"
     },
@@ -57,8 +61,20 @@
       "PackagePath": "staticwebassets/Images/shutter-door.png"
     },
     {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/sign/red_sign.png",
+      "PackagePath": "staticwebassets/Images/sign/red_sign.png"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/sign/white_sign.png",
+      "PackagePath": "staticwebassets/Images/sign/white_sign.png"
+    },
+    {
       "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Texts/projects.txt",
       "PackagePath": "staticwebassets/Texts/projects.txt"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/css/crochet.css",
+      "PackagePath": "staticwebassets/css/crochet.css"
     },
     {
       "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/css/projects.css",

@@ -6,11 +6,12 @@ a.navbar-brand[b-nh1x1bk8vf] {
   white-space: normal;
   text-align: center;
   word-break: break-all;
+
 }
 
-a[b-nh1x1bk8vf] {
-  color: #0077cc;
-}
+/* a {
+  color: #cbcbcb;
+} */
 
 .btn-primary[b-nh1x1bk8vf] {
   color: #fff;
@@ -20,15 +21,15 @@ a[b-nh1x1bk8vf] {
 
 .nav-pills .nav-link.active[b-nh1x1bk8vf], .nav-pills .show > .nav-link[b-nh1x1bk8vf] {
   color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
+  background-color: #4c0808;
+  border-color: #4c0808;
 }
 
 .border-top[b-nh1x1bk8vf] {
-  border-top: 1px solid #e5e5e5;
+  border-top: 1px solid #4c0808;
 }
 .border-bottom[b-nh1x1bk8vf] {
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid rgb(76, 8, 8);
 }
 
 .box-shadow[b-nh1x1bk8vf] {
