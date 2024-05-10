@@ -43,7 +43,7 @@ body {
     min-height: 100vh; /* Make the body cover the entire viewport height */
     background-image: url(../Images/Back.jpeg); /* Set the background image */
     background-size: cover; /* Ensure the background covers the entire body */
-    /*overflow: hidden;*/ /* Hide overflow to prevent scrollbars */
+    overflow: hidden; /* Hide overflow to prevent scrollbars */
     position: relative; /* Set position relative for stacking */
 }
 
