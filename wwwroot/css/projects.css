@@ -1,30 +1,50 @@
 .projectBtn{
-    background-image: url(../Images/Brick2.png);
-    background-size: cover;
-    background-color: rgba(0, 0, 0, 0);
-    border-width: 0;
-    width: 574px;
-    height: 125px;
-    display: block; /* Change buttons to block elements */
+    background-position: center;
+    font-family: 'Bacasime Antique', sans-serif;
+    font-size: large;
+    color: rgb(88, 9, 9);
+    box-shadow: inset 0 0 0 1000px rgba(255, 255, 255, 0.861);
+    border-color: rgba(255, 255, 255, 0.83);
+    border-width: thick;
+    height: 80px;
+    width: 98%;
+    display: block;
   }
 /* change hover style */
 .projectBtn:hover{
 box-shadow: inset 0.5em 0.5em 2em black, 0.5em 0.5em 2em black;
 }
 
+.projectContainer{
+    position: absolute; 
+    display: inline-block; 
+    max-width: 60%; 
+    max-height: 80%; 
+    padding: 0; 
+}
+.projectContainer img{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
 .project-container {
-    padding-top: 46px;
-    padding-left: 16px;
+    position: absolute;
+    top: 58%; /* Position at the center vertically */
+    left: 44%; /* Position at the center horizontally */
+    transform: translate(-50%, -50%);  /*Center the container */
     overflow-y: scroll;
     overflow-x: hidden;
-    max-height: 421px; /* Set maximum height for the container */
+    width: 50%;
+    height: 85%; /* Set maximum height for the container */
     scrollbar-width: none; /* Firefox */
     -ms-overflow-style: none; /* Internet Explorer */
+    direction: rtl;
 }
 
 /* Show the custom scrollbar */
 .project-container::-webkit-scrollbar {
-    width: 12px; /* Set the width of the scrollbar */
+    width: 16px; /* Set the width of the scrollbar */
 }
 
 /* Track */
@@ -42,3 +62,27 @@ box-shadow: inset 0.5em 0.5em 2em black, 0.5em 0.5em 2em black;
     background: #555; /* Set the color of the scrollbar handle on hover */
 }
 
+.sort-mode-container{
+    position: absolute;
+    top: 58%; /* Position at the center vertically */
+    left: 70%; 
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width: 50%;
+    height: 85%; /* Set maximum height for the container */
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* Internet Explorer */
+}
+
+.sort-mode-container button{
+    background-position: center;
+    font-family: 'Bacasime Antique', sans-serif;
+    font-size: small;
+    color: rgb(88, 9, 9);
+    box-shadow: inset 0 0 0 1000px rgba(255, 255, 255, 0.861);
+    border-color: rgba(255, 255, 255, 0.83);
+    border-width: thick;
+    height: 40px;
+    width: 30%;
+    display: block;
+}

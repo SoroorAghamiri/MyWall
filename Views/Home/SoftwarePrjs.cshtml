@@ -11,38 +11,39 @@
 </head>
 
 <body>
-    <p class="buttonText">Software projects</p>
-    <div class="project-container" id="projectContainer">
-        @if (ViewData["Projects"] != null)
-        {
-            var projects = ViewData["Projects"] as List<Project>;
-            foreach (var prj in projects)
-            {
-                <tr>
-                    <a href='@prj.GetUrl()' style="position:relative; left:540px;">
-                        <button class="projectBtn">@prj.GetName()</button>
-                    </a>
-                </tr>
-            }
-        }
-        else
-        {
-            <p>No projects available</p>
-        }
+    <div class="pageLabelContainer">
+            <img src="~/Images/sign/red_sign.png" alt="Sign">
+            <div class="pageLabel">My Software Projects</div>
     </div>
-
-   @* <script>
-        const projectContainer = document.getElementById('projectContainer');
-
-        let prevScrollTop = projectContainer.scrollTop;
-
-        projectContainer.addEventListener('scroll', function() {
-            if (projectContainer.scrollTop > prevScrollTop) {
-                // When scrolling down, move the scroll position up by 574px
-                projectContainer.scrollTop -= 30;
+    <div class="projectContainer">
+        <img src="~/Images/projects/vending_machine.png" alt="vending maching png">
+        <div class="project-container">
+            @if (ViewData["Projects"] != null)
+            {
+                var projects = ViewData["Projects"] as List<Project>;
+                foreach (var prj in projects)
+                {
+                    <tr>
+                        <a href='@prj.GetUrl()' style="padding-bottom:10%;">
+                            <button class="projectBtn">@prj.GetName()</button>
+                        </a>
+                    </tr>
+                }
             }
-            prevScrollTop = projectContainer.scrollTop;
-        });
-    </script> *@
+            else
+            {
+                <p>No projects available</p>
+            }
+        </div>
+        <div class="sort-mode-container">
+            <a href="/SoftwarePrjs/Sort?requestedMode=Date">
+                            <button class="projectBtn">Sort Date</button>
+            </a>
+        </div>
+        
+    </div>
+   
+
+
 </body>
 

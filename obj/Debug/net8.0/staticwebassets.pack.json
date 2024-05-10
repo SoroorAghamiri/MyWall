@@ -5,10 +5,6 @@
       "PackagePath": "staticwebassets/MyWebApplication.bundle.scp.css"
     },
     {
-      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/Back copy.png",
-      "PackagePath": "staticwebassets/Images/Back copy.png"
-    },
-    {
       "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/Back.jpeg",
       "PackagePath": "staticwebassets/Images/Back.jpeg"
     },
@@ -55,6 +51,14 @@
     {
       "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/pngwing.com.png",
       "PackagePath": "staticwebassets/Images/pngwing.com.png"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/projects/roller.png",
+      "PackagePath": "staticwebassets/Images/projects/roller.png"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/projects/vending_machine.png",
+      "PackagePath": "staticwebassets/Images/projects/vending_machine.png"
     },
     {
       "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/shutter-door.png",
