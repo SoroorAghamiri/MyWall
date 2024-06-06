@@ -24,8 +24,16 @@
                 foreach (var prj in projects)
                 {
                     <tr>
-                        <a href='@prj.GetUrl()' style="padding-bottom:10%;">
-                            <button class="projectBtn">@prj.GetName()</button>
+                        <a href='@prj.GetUrl()' target="_blank" style="padding-bottom:10%;">
+                            <button class="projectBtn">@prj.GetName()
+                                <br>
+                                <a>@prj.GetProjectDate()</a>
+                                <br>
+                                <a>@prj.GetProgrammingLang()</a>
+                                <br>
+                                <a>@prj.GetType()</a>
+                            </button>
+                            
                         </a>
                     </tr>
                 }
@@ -36,8 +44,17 @@
             }
         </div>
         <div class="sort-mode-container">
-            <a href="/SoftwarePrjs/Sort?requestedMode=Date">
-                            <button class="projectBtn">Sort Date</button>
+            <a href="/SoftwarePrjs/Sort?requestedMode=Alphabetical">
+                            <button>Name</button>
+            </a>
+            <a href="/SoftwarePrjs/Sort?requestedMode=Date" >
+                            <button >Date</button>
+            </a>
+            <a href="/SoftwarePrjs/Sort?requestedMode=ProgrammingLang">
+                            <button>Language</button>
+            </a>
+            <a href="/SoftwarePrjs/Sort?requestedMode=Type">
+                            <button>App Type</button>
             </a>
         </div>
         
