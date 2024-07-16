@@ -1,0 +1,7 @@
+/Users/soroormiri/Documents/DotNet Test Projects/MyWall-v0.1/MyWebApplication
+/Users/soroormiri/Documents/DotNet Test Projects/MyWall-v0.1/appsettings.Development.json
+/Users/soroormiri/Documents/DotNet Test Projects/MyWall-v0.1/appsettings.json
+/Users/soroormiri/Documents/DotNet Test Projects/MyWall-v0.1/MyWebApplication.dll
+/Users/soroormiri/Documents/DotNet Test Projects/MyWall-v0.1/MyWebApplication.deps.json
+/Users/soroormiri/Documents/DotNet Test Projects/MyWall-v0.1/MyWebApplication.runtimeconfig.json
+/Users/soroormiri/Documents/DotNet Test Projects/MyWall-v0.1/MyWebApplication.pdb

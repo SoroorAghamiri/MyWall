@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/obj/Release/net8.0/scopedcss/projectbundle/MyWebApplication.bundle.scp.css",
+      "PackagePath": "staticwebassets/MyWebApplication.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/Back.jpeg",
+      "PackagePath": "staticwebassets/Images/Back.jpeg"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/Brick.jpg",
+      "PackagePath": "staticwebassets/Images/Brick.jpg"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/Brick2.png",
+      "PackagePath": "staticwebassets/Images/Brick2.png"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/Crochets/1.JPG",
+      "PackagePath": "staticwebassets/Images/Crochets/1.JPG"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/Crochets/2.jpg",
+      "PackagePath": "staticwebassets/Images/Crochets/2.jpg"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/Crochets/3.jpg",
+      "PackagePath": "staticwebassets/Images/Crochets/3.jpg"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/Crochets/4.jpg",
+      "PackagePath": "staticwebassets/Images/Crochets/4.jpg"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/Profile.jpeg",
+      "PackagePath": "staticwebassets/Images/Profile.jpeg"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/Profile2.jpeg",
+      "PackagePath": "staticwebassets/Images/Profile2.jpeg"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/Profile2.png",
+      "PackagePath": "staticwebassets/Images/Profile2.png"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/brick-wall-painted-white.jpg",
+      "PackagePath": "staticwebassets/Images/brick-wall-painted-white.jpg"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/pngwing.com.png",
+      "PackagePath": "staticwebassets/Images/pngwing.com.png"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/projects/roller.png",
+      "PackagePath": "staticwebassets/Images/projects/roller.png"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/projects/vending_machine.png",
+      "PackagePath": "staticwebassets/Images/projects/vending_machine.png"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/shutter-door.png",
+      "PackagePath": "staticwebassets/Images/shutter-door.png"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/sign/red_sign.png",
+      "PackagePath": "staticwebassets/Images/sign/red_sign.png"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/sign/white_sign.png",
+      "PackagePath": "staticwebassets/Images/sign/white_sign.png"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Texts/projects.txt",
+      "PackagePath": "staticwebassets/Texts/projects.txt"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/css/crochet.css",
+      "PackagePath": "staticwebassets/css/crochet.css"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/css/projects.css",
+      "PackagePath": "staticwebassets/css/projects.css"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.MyWebApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.build.MyWebApplication.props",
+      "PackagePath": "build\\MyWebApplication.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyWebApplication.props",
+      "PackagePath": "buildMultiTargeting\\MyWebApplication.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.buildTransitive.MyWebApplication.props",
+      "PackagePath": "buildTransitive\\MyWebApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

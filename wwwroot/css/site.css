@@ -41,25 +41,14 @@ body {
     margin: 0; /* Remove default body margin */
     padding: 0; /* Remove default body padding */
     min-height: 100vh; /*Make the body cover the entire viewport height */
-    background-image: url(../Images/Back.jpeg); /* Set the background image */
     background-size: cover; /* Ensure the background covers the entire body */
     background-repeat: no-repeat;
     overflow-y: auto; /* Enable vertical scrolling */
-     position: relative; /*Set position relative for stacking */
-
-     background: linear-gradient(rgba(255, 255, 255, 0.861), rgba(255, 255, 255, 0.861)), url(../Images/Back.jpeg);
-    background-blend-mode: overlay;
+    overflow-x: hidden;
+    position: relative; /*Set position relative for stacking */
+    background: linear-gradient(rgba(255, 255, 255, 0.861), rgba(255, 255, 255, 0.861)) , url(../Images/Back.jpeg);
+    background-blend-mode: soft-light;
 }
-
-/* body::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100vh;
-    box-shadow: inset 0 0 0 1000px rgba(255, 255, 255, 0.861);  /*Apply the shadow to cover the entire body */
-/*} */
 
 
 .announcement{
@@ -122,15 +111,17 @@ body {
 .pageLabelContainer {
   position: relative; /* Position relative for absolute positioning of text */
   display: inline-block; /* To make container fit its content */
-  max-width: 25%; /* Adjust max width as needed */
-  max-height: 12.5%; /* Adjust max height as needed */
-  padding: 0; /* Reset padding */
+  max-width: 20rem; /* Adjust max width as needed */
+  max-height: 10rem; /* Adjust max height as needed */
+  padding: 0; /*Reset padding */
+
 }
 
 .pageLabelContainer img {
   display: block; /* Make image fill its container */
-  width: 100%; /* Ensure image fills container width */
-  height: 100%; /* Ensure image fills container height */
+  width: 300px; /* Ensure image fills container width */
+  height: 160px; /* Ensure image fills container height */
+  border-radius: 15px;
 }
 
 .pageLabel {
