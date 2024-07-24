@@ -1,0 +1,7 @@
+/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/bin/Publish/MyWebApplication
+/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/bin/Publish/appsettings.Development.json
+/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/bin/Publish/appsettings.json
+/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/bin/Publish/MyWebApplication.dll
+/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/bin/Publish/MyWebApplication.deps.json
+/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/bin/Publish/MyWebApplication.runtimeconfig.json
+/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/bin/Publish/MyWebApplication.pdb

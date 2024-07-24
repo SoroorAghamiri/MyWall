@@ -43,10 +43,10 @@ body {
     min-height: 100vh; /*Make the body cover the entire viewport height */
     background-size: cover; /* Ensure the background covers the entire body */
     background-repeat: no-repeat;
-    overflow-y: auto; /* Enable vertical scrolling */
+    overflow-y: auto; /* Disable vertical scrolling */
     overflow-x: hidden;
     position: relative; /*Set position relative for stacking */
-    background: linear-gradient(rgba(255, 255, 255, 0.861), rgba(255, 255, 255, 0.861)) , url(../Images/Back.jpeg);
+    background: url(../Images/white-wall.jpg);
     background-blend-mode: soft-light;
 }
 
@@ -74,8 +74,8 @@ body {
 }
 
 .container {
-  padding: 2px 0px;
-  overflow-y: visible;
+  padding: 2px 2px;
+  overflow-y: auto;
 }
 
 .headingFont1{
@@ -104,8 +104,8 @@ body {
   color: black;
   text-align: center;
   text-shadow: 2px 2px 2px white;
-  max-width: 50%;
   max-height: max-content;
+  max-width: 80%;
 }
 
 .pageLabelContainer {
@@ -135,3 +135,9 @@ body {
   color: rgb(255, 255, 255); /* Set text color */
 }
 
+.brick-btn-container{
+  position:relative; 
+  padding-top:1cm; 
+  padding-left: 20vw; 
+  padding-bottom: 10vh;
+}

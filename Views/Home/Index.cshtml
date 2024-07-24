@@ -3,20 +3,19 @@
 }
 
 <body>
-    <div>
+    <div style="overflow-y:auto;">
         <div style="display: inline-block;">
-            <img src="~/Images/Profile2.png"  alt="This is supposed to be an image" class="profileImg"></img>
+            <img src="~/Images/Profile2.png"  alt="This is supposed to be my image" class="profileImg"></img>
         </div> 
 
-        <div style="position:relative;">
-            @* <img src="~/Images/pngwing.com.png"  alt="background-image" class="announcement"> *@
-            <div class="headingFont1" style="padding-right: 0px; padding-top: 0px; right:0px;">
+        <div style="display:inline-block; position:relative; overflow-x: hidden;">
+            <div class="headingFont1" style="align-self: center;">
                 Welcome to wall of
             </div>
-            <div class="headingFont2" style="padding-right: 0px; padding-top:0px;">
+            <div class="headingFont2" style="align-self: center;">
                 Soroor
             </div>
-            <div class="bodyFont" style="padding-right: 0px; padding-top: 10px; left:345px;">
+            <p class="bodyFont" style="padding-left: 20vw; align-self:center;">
                 You're probably wondering how I ended up here! Well, let me tell you how it all started. 
                 I was in the midst of my job search when, in one of those sudden moments of epiphany, 
                 I had an idea: why not create a website to introduce myself and showcase that I am more than 
@@ -27,24 +26,23 @@
                 in a sudden moment of inspiration I came up with the idea of creating a website, introducing myself and showing
                 you that I am more than my resume and my interviews. Click on any of the buttons to learn more about
                 me.*@
+            </p>
+            <div class="brick-btn-container">
+                <a href="/Home/Crochet" style="position:relative; padding: .2cm;">
+                    <button class="btn-type4">Crochet</button>
+                </a>
 
+                <a href="/Home/Photography" style="position:relative; padding: .2cm;">
+                    <button class="btn-type4">Photography</button>
+                </a>
+
+                <a href="/SoftwarePrjs" style="position:relative; padding: .2cm;">
+                    <button class="btn-type4">Software Projects</button>
+                </a>
             </div>
-            @* </img> *@
         </div>
         
-        <div style="position:relative; padding-top:10px; left:380px;">
-            <a href="/Home/Crochet" style="position:relative;">
-                <button class="btn-type4">Crochet</button>
-            </a>
-
-            <a href="/Home/Photography" style="position:relative; padding-left:10px;">
-                <button class="btn-type4">Photography</button>
-            </a>
-
-            <a href="/SoftwarePrjs" style="position:relative; padding-left:10px;">
-                <button class="btn-type4">Software Projects</button>
-            </a>
-        </div>
+        
     </div>
 </body>
 
