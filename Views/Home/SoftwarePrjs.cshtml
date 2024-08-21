@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="~/css/projects.css" asp-append-version="true" />
 </head>
 
-<body>
+<body style="overflow-y: visible;">
     <div class="pageLabelContainer">
             <img src="~/Images/sign/red_sign.jpg" alt="Sign">
             <div class="pageLabel">My Software Projects</div>
@@ -27,8 +27,8 @@
                         <a href='@prj.GetUrl()' target="_blank" style="padding-bottom:10%;">
                             <button class="projectBtn">@prj.GetName()
                                 <br>
-                                <a>@prj.GetProjectDate()</a>
-                                <br>
+                                <a>@prj.GetProjectDate() - </a>
+                                @* <br> *@
                                 <a>@prj.GetProgrammingLang()</a>
                                 <br>
                                 <a>@prj.GetType()</a>

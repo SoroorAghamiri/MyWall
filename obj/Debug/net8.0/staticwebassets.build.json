@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CFso+Lm7y33dFoAaMrgOxFr7YFadTbhxcPbhU0wmhHU=",
+  "Hash": "gxgmr9EOxzrCctFGKXJh5JkVpjWxk2nN5yrh9reE2MQ=",
   "Source": "MyWebApplication",
   "BasePath": "_content/MyWebApplication",
   "Mode": "Default",
@@ -281,6 +281,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Images/Crochets/5.jpg"
+    },
+    {
+      "Identity": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/Crochets/sold-stamp.png",
+      "SourceId": "MyWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/",
+      "BasePath": "_content/MyWebApplication",
+      "RelativePath": "Images/Crochets/sold-stamp.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/Crochets/sold-stamp.png"
     },
     {
       "Identity": "/Users/soroormiri/Documents/DotNet Test Projects/MyWebsite/wwwroot/Images/pngwing.com.png",
